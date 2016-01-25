@@ -17,7 +17,7 @@ module.exports = {
     './app/App.js'
   ],
   output: {
-    path: 'dist',
+    path: './',
     filename: 'index_bundle.js',
   },
   module: {
